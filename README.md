@@ -1,6 +1,6 @@
 # IS_News_Scrap
-Last Update: 2024-11-28 09:25
-
+Last Update: 2024-12-05 09:57
+**[Information Table]**(https://ymiwm.github.io/IS_News_Scrap/ThreatAnalysis-Sites)
 
 ### Scarpping Site Info
 1. [Checkmarx](https://checkmarx.com/blog/)
